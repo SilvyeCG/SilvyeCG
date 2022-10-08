@@ -12,6 +12,7 @@
 <h1 align="center">
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  I'm Silvia Cortés
 </h1>
 
 <div align="center">
@@ -21,8 +22,7 @@
 
 ### :woman_technologist: About Me :
 
- - 👋 Hi, I’m @Silvia Cortés
- I am Frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Mexico.
+ I am a Frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Mexico.
  - :telescope: I’m currently studying at DEV.F and contributing to frontend for building web applications. I'm proudly a tech girl interested in technology, programming and traveling.
 
 - :seedling: Exploring Technical Content Writing.
