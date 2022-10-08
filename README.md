@@ -14,10 +14,22 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/QuDgW7dXQfCZiWVXD4/giphy.gif" width="600" height="300"/>
+</div>
+---
+
+### :woman_technologist: About Me :
+
  - 👋 Hi, I’m @Silvia Cortés
-- 🌱 I’m currently studying at DEV.F web development, I'm peoudly mexican and a tech girl interested in technology, programming and traveling.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+ I am Frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Mexico.
+ - :telescope: I’m currently studying at DEV.F and contributing to frontend for building web applications. I'm proudly a tech girl interested in technology, programming and traveling.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I read tech articles, work on personal projects and I love to spend time with my family and friends.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silviacorgui/)
 
 <!---
 SilvyeCG/SilvyeCG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
